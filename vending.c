@@ -12,6 +12,7 @@ int main(void){
     printf("Price:%.2f \n",price1);
     printf("Selection code: %c \n", code1);
 
+
     //Tortas
     float price2 = 70.99;
     int quantity2 = 40;
